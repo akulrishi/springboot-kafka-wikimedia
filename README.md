@@ -7,6 +7,7 @@ Technology Stack:
 3. Apache Kafka
 4. MySQL
 5. Spring Data JPA (Hibernate)
+6. Zookeeper
 
 Contents:
 1. Kafka Producer Service written using SpringBoot
@@ -14,4 +15,6 @@ Contents:
 3. MySQL Database
 
 Flow:
-<img width="1006" alt="Kafka Screen" src="https://user-images.githubusercontent.com/38141800/234531515-89f869fb-5577-47c4-b4ad-c5e17e90f171.png">
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/38141800/234537620-99fcf812-afe0-42fa-ac9d-86b47598e1b1.png">
+
+URL for data source: https://stream.wikimedia.org/v2/stream/recentchange
